@@ -910,14 +910,14 @@ footer h4.stop-climate {
 		
 	}
 	.box .tree  h2{ 
-		margin-top: -165px;
+		margin-top: -145px;
 	}
 	.box h2 {
 		font-size: 1.25rem;
 		white-space: nowrap;
 		text-align: center;
-		margin-top: -125px;
-		margin-left: 50px;
+		margin-top: -105px;
+		margin-left: 20px;
 	}
 	.box p {
 		font-size: 3vw;
@@ -928,7 +928,7 @@ footer h4.stop-climate {
 	
 	.box span {
 		left: 30%;
-		margin-top: -40px;
+		margin-top: -60px;
 	}
 	.to-know-section {
 		height: 90em;
@@ -943,7 +943,7 @@ footer h4.stop-climate {
 		height: 14em;
 		padding-bottom: 1em;
 		margin-top: -55px;
-		margin-left: 250px;
+		margin-left: 290px;
 	}
 	.climate h4 {
 		width: 312px;
@@ -952,9 +952,6 @@ footer h4.stop-climate {
 		margin-top: 530px;
 		margin-left: 400px;
 		
-	}
-	.twitter{
-		margin-left: 30px;
 	}
 	.climate span{
 		width: 134px;
@@ -969,8 +966,11 @@ footer h4.stop-climate {
 	.out-of{
 		width: 90%;
 		margin-top: -200px;
-		
 	}
+	.out-of h2{
+		font-size: 1.8rem;
+	}
+	
 	.did-you-know-argi section {
 		left: 25%;
 	}
