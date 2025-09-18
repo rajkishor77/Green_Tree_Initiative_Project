@@ -910,13 +910,13 @@ footer h4.stop-climate {
 		
 	}
 	.box .tree  h2{ 
-		margin-top: -190px;
+		margin-top: -165px;
 	}
 	.box h2 {
 		font-size: 1.25rem;
 		white-space: nowrap;
 		text-align: center;
-		margin-top: -140px;
+		margin-top: -125px;
 		margin-left: 50px;
 	}
 	.box p {
@@ -925,6 +925,7 @@ footer h4.stop-climate {
 		margin-top: -10px;
 		
 	}
+	
 	.box span {
 		left: 30%;
 		margin-top: -40px;
@@ -942,14 +943,18 @@ footer h4.stop-climate {
 		height: 14em;
 		padding-bottom: 1em;
 		margin-top: -55px;
+		margin-left: 250px;
 	}
 	.climate h4 {
 		width: 312px;
 		height: 192px;
 		font-size: 3rem;
 		margin-top: 530px;
-		margin-left: 600px;
+		margin-left: 400px;
 		
+	}
+	.twitter{
+		margin-left: 30px;
 	}
 	.climate span{
 		width: 134px;
@@ -958,11 +963,11 @@ footer h4.stop-climate {
 		border-radius: 100px;
 		position: absolute;
 		top: 770px;
-		left: -85px;
+		left: -280px;
 	}
 
 	.out-of{
-		width: 80%;
+		width: 90%;
 		margin-top: -200px;
 		
 	}
